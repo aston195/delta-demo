@@ -1,2 +1,2 @@
 # delta-demo
-demo for delta batch
+This is a demo for Git & Github class.
